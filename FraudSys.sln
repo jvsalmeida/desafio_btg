@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FraudSys.Core", "FraudSys.Core\FraudSys.Core.csproj", "{6527DF11-5195-46CF-A58E-FD687A0650D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FraudSys.Api", "FraudSys.Api\FraudSys.Api.csproj", "{63FAF4FA-924A-4D27-92E5-453B6DE18289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6527DF11-5195-46CF-A58E-FD687A0650D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6527DF11-5195-46CF-A58E-FD687A0650D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6527DF11-5195-46CF-A58E-FD687A0650D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6527DF11-5195-46CF-A58E-FD687A0650D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63FAF4FA-924A-4D27-92E5-453B6DE18289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FAF4FA-924A-4D27-92E5-453B6DE18289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FAF4FA-924A-4D27-92E5-453B6DE18289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FAF4FA-924A-4D27-92E5-453B6DE18289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
